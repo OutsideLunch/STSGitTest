@@ -6,6 +6,7 @@ public class GitTest {
 		System.out.println("GitTest1");
 		System.out.println("GitTest2");
 		System.out.println("GitTest3 소스트리와 연동");
+		System.out.println("Github에서 다운받아 수정한 파일");
 	}
 
 }
